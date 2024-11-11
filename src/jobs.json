@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "acdb",
-      "title": "dadsas",
-      "type": "Full-Time",
-      "location": "sdasdasdasda",
-      "description": "dasdasdasda",
-      "salary": "Under $50K",
-      "company": {
-        "name": "dasdasda",
-        "description": "dadasd",
-        "contactEmail": "rizea.bogdan@gmail.com",
-        "contactPhone": "0749253939"
-      }
     }
   ]
 }
